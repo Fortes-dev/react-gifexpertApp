@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite de GifGrid Debe mostrar el snapshot 1`] = `
+<Fragment>
+  <h3
+    className="animate__animated animate__pulse"
+  >
+    Berserk
+  </h3>
+  <p
+    className="animate__animated animate__fadeOut"
+  >
+    Loading...
+  </p>
+  <div
+    className="card-grid"
+  />
+</Fragment>
+`;
